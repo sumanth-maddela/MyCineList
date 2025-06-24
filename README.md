@@ -5,7 +5,7 @@ I developed a fully-featured movie listing iOS application that integrates with 
 Features & Implementation:
 
 Home Screen with Trending & Now Playing Movies
-The app showcases two distinct sections on the home screen: Trending Movies and Now Playing. These are powered by the TMDB API using the following endpoints:
+The app showcases two distinct sections on the home screen: Trending Movies and Now Playing.
 
 Pagination is implemented in the Now Playing section to support infinite scrolling, offering a seamless content consumption experience.
 
