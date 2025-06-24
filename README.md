@@ -22,7 +22,7 @@ Search Functionality with Local Data
 A search bar allows users to quickly find movies within the locally cached Trending and Now Playing lists. This ensures fast, offline-capable searching without making additional API calls.
 
 Optimized Search with Debouncing
-To enhance performance and reduce redundant queries, a debouncing mechanism using `DispatchWorkItem` is implemented. This ensures that searches are triggered efficiently after users pause typing.
+To enhance performance and reduce redundant queries, a debouncing mechanism using DispatchWorkItem is implemented. This ensures that searches are triggered efficiently after users pause typing.
 
 Share Functionality
 Users can share their favorite movies via a native share sheet. Tapping the Share button on the Movie Detail screen presents options to share the movie poster URL with others.
